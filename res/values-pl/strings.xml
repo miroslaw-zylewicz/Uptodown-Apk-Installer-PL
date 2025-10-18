@@ -365,6 +365,7 @@
     <string name="searchbar_scrolling_view_behavior">com.google.android.material.search.SearchBar$ScrollingViewBehavior</string>
     <string name="searchview_clear_text_content_description">Usuń tekst</string>
     <string name="searchview_navigation_content_description">Wstecz</string>
+    <string name="select_all">Zaznacz wszystko</string>
     <string name="select_app_to_send">Wybierz aplikację, którą chcesz wysłać na inne urządzenie</string>
     <string name="selection_multiple">Wielokrotne zaznaczenie</string>
     <string name="sending_app_to">Wysyłanie aplikacji do</string>
@@ -389,6 +390,7 @@
     <string name="title_send_apps">Wyślij aplikacje</string>
     <string name="title_unknown_source_dialog">Zezwól %s na instalowanie aplikacji</string>
     <string name="tos_title">Warunki korzystania z usługi</string>
+    <string name="unselect_all">Odznacz wszystko</string>
     <string name="unzipping_status">Rozpakowywanie %1$d%%</string>
     <string name="v7_preference_off">WYŁ</string>
     <string name="v7_preference_on">WŁ</string>
