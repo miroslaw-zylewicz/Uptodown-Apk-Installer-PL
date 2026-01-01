@@ -193,6 +193,7 @@
     <string name="language_label_dialog_splits">Język:</string>
     <string name="loading">ładowanie…</string>
     <string name="m3_exceed_max_badge_text_suffix">%1$s%2$s</string>
+    <string name="m3_loading_indicator_content_description">Ładowanie</string>
     <string name="m3_ref_typeface_brand_medium">sans-serif-medium</string>
     <string name="m3_ref_typeface_brand_regular">sans-serif</string>
     <string name="m3_ref_typeface_plain_medium">sans-serif-medium</string>
@@ -266,6 +267,8 @@
     <string name="msg_request_permissions_write_external_storage">Aby utworzyć kopię zapasową aplikacji, wymagane są uprawnienia do odczytu/zapisu w pamięci.</string>
     <string name="msg_sending">Wysyłanie…</string>
     <string name="mtrl_badge_numberless_content_description">Nowe powiadomienie</string>
+    <string name="mtrl_button_collapsed_content_description">Zwinięte</string>
+    <string name="mtrl_button_expanded_content_description">Rozwinięte</string>    
     <string name="mtrl_checkbox_button_icon_path_checked">M14,18.2 11.4,15.6 10,17 14,21 22,13 20.6,11.6z</string>
     <string name="mtrl_checkbox_button_icon_path_group_name">ikona</string>
     <string name="mtrl_checkbox_button_icon_path_indeterminate">M13.4,15 11,15 11,17 13.4,17 21,17 21,15z</string>
@@ -317,6 +320,8 @@
     <string name="mtrl_picker_toggle_to_day_selection">Stuknij, aby przełączyć na widok kalendarza</string>
     <string name="mtrl_picker_toggle_to_text_input_mode">Przełącz na tekstowy tryb wprowadzania</string>
     <string name="mtrl_picker_toggle_to_year_selection">Stuknij, aby przełączyć na widok roku</string>
+    <string name="mtrl_picker_toggled_to_day_selection">Przełączono na widok kalendarza</string>
+    <string name="mtrl_picker_toggled_to_year_selection">Przełączono na widok roku</string>
     <string name="mtrl_switch_thumb_group_name">circle_group</string>
     <string name="mtrl_switch_thumb_path_checked">M4,16 A12,12 0 0,1 16,4 H16 A12,12 0 0,1 16,28 H16 A12,12 0 0,1 4,16</string>
     <string name="mtrl_switch_thumb_path_morphing">M0,16 A11,11 0 0,1 11,5 H21 A11,11 0 0,1 21,27 H11 A11,11 0 0,1 0,16</string>
@@ -327,6 +332,8 @@
     <string name="mtrl_switch_track_path">M0,16 A16,16 0 0,1 16,0 H36 A16,16 0 0,1 36,32 H16 A16,16 0 0,1 0,16</string>
     <string name="mtrl_timepicker_cancel">Anuluj</string>
     <string name="mtrl_timepicker_confirm">OK</string>
+    <string name="nav_rail_collapsed_a11y_label">Zwinięte</string>
+    <string name="nav_rail_expanded_a11y_label">Rozwinięte</string>
     <string name="no_free_space_xapk">Za mało miejsca.</string>
     <string name="no_permissions_directory">Brak uprawnień</string>
     <string name="not_set">Nie ustawiono</string>
